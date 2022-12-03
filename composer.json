@@ -1,0 +1,17 @@
+{
+    "name": "user/tcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\Tcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HighEloPlayer",
+            "email": "nfcobra20@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.5"
+    }
+}
